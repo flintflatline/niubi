@@ -1,0 +1,2 @@
+# niubi
+Niubi token assets
